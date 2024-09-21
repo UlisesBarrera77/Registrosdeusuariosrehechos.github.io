@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Corregido */
+    margin: 0;
+    padding: 0;
+}
+
+header { /* Corregido */
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center; /* Corregido */
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px; /* Corregido */
+}
+
+input {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #333; /* Corregido */
+    color: aquamarine; /* Corregido */
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: beige;
+    position: fixed;
+    width: 100%;
+}
+
